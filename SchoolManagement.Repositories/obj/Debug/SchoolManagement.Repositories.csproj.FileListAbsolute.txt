@@ -1,0 +1,17 @@
+E:\Maulik\School_Management\SchoolManagement\SchoolManagement.Repositories\bin\Debug\SchoolManagement.Repositories.dll
+E:\Maulik\School_Management\SchoolManagement\SchoolManagement.Repositories\bin\Debug\SchoolManagement.Repositories.pdb
+E:\Maulik\School_Management\SchoolManagement\SchoolManagement.Repositories\obj\Debug\SchoolManagement.Repositories.csproj.AssemblyReference.cache
+E:\Maulik\School_Management\SchoolManagement\SchoolManagement.Repositories\obj\Debug\SchoolManagement.Repositories.csproj.CoreCompileInputs.cache
+E:\Maulik\School_Management\SchoolManagement\SchoolManagement.Repositories\obj\Debug\SchoolManagement.Repositories.dll
+E:\Maulik\School_Management\SchoolManagement\SchoolManagement.Repositories\obj\Debug\SchoolManagement.Repositories.pdb
+E:\Maulik\School_Management\SchoolManagement\SchoolManagement.Repositories\bin\Debug\SchoolManagement.Repositories.dll.config
+E:\Maulik\School_Management\SchoolManagement\SchoolManagement.Repositories\bin\Debug\EntityFramework.dll
+E:\Maulik\School_Management\SchoolManagement\SchoolManagement.Repositories\bin\Debug\EntityFramework.SqlServer.dll
+E:\Maulik\School_Management\SchoolManagement\SchoolManagement.Repositories\bin\Debug\SchoolManagement.Helpers.dll
+E:\Maulik\School_Management\SchoolManagement\SchoolManagement.Repositories\bin\Debug\SchoolManagement.Models.dll
+E:\Maulik\School_Management\SchoolManagement\SchoolManagement.Repositories\bin\Debug\SchoolManagement.Helpers.pdb
+E:\Maulik\School_Management\SchoolManagement\SchoolManagement.Repositories\bin\Debug\SchoolManagement.Models.pdb
+E:\Maulik\School_Management\SchoolManagement\SchoolManagement.Repositories\bin\Debug\SchoolManagement.Models.dll.config
+E:\Maulik\School_Management\SchoolManagement\SchoolManagement.Repositories\bin\Debug\EntityFramework.xml
+E:\Maulik\School_Management\SchoolManagement\SchoolManagement.Repositories\bin\Debug\EntityFramework.SqlServer.xml
+E:\Maulik\School_Management\SchoolManagement\SchoolManagement.Repositories\obj\Debug\SchoolManagement.Repositories.csproj.CopyComplete

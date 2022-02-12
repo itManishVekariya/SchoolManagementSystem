@@ -1,0 +1,12 @@
+E:\Maulik\School_Management\SchoolManagement\SchoolManagement.Models\bin\Debug\SchoolManagement.Models.dll.config
+E:\Maulik\School_Management\SchoolManagement\SchoolManagement.Models\bin\Debug\SchoolManagement.Models.dll
+E:\Maulik\School_Management\SchoolManagement\SchoolManagement.Models\bin\Debug\SchoolManagement.Models.pdb
+E:\Maulik\School_Management\SchoolManagement\SchoolManagement.Models\bin\Debug\EntityFramework.dll
+E:\Maulik\School_Management\SchoolManagement\SchoolManagement.Models\bin\Debug\EntityFramework.SqlServer.dll
+E:\Maulik\School_Management\SchoolManagement\SchoolManagement.Models\bin\Debug\EntityFramework.xml
+E:\Maulik\School_Management\SchoolManagement\SchoolManagement.Models\bin\Debug\EntityFramework.SqlServer.xml
+E:\Maulik\School_Management\SchoolManagement\SchoolManagement.Models\obj\Debug\SchoolManagement.Models.csproj.AssemblyReference.cache
+E:\Maulik\School_Management\SchoolManagement\SchoolManagement.Models\obj\Debug\SchoolManagement.Models.csproj.CoreCompileInputs.cache
+E:\Maulik\School_Management\SchoolManagement\SchoolManagement.Models\obj\Debug\SchoolManagement.Models.csproj.CopyComplete
+E:\Maulik\School_Management\SchoolManagement\SchoolManagement.Models\obj\Debug\SchoolManagement.Models.dll
+E:\Maulik\School_Management\SchoolManagement\SchoolManagement.Models\obj\Debug\SchoolManagement.Models.pdb

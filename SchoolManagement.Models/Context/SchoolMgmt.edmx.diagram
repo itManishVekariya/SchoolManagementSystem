@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="47ace3d296b64f0cacfacf0342220904" Name="Diagram1">
+        <EntityTypeShape EntityType="SchoolMgmtModel.City" Width="1.5" PointX="5.25" PointY="8.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="SchoolMgmtModel.Country" Width="1.5" PointX="0.75" PointY="8.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="SchoolMgmtModel.Standard" Width="1.5" PointX="5.25" PointY="4" IsExpanded="true" />
+        <EntityTypeShape EntityType="SchoolMgmtModel.State" Width="1.5" PointX="3" PointY="8.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="SchoolMgmtModel.Student" Width="1.5" PointX="7.5" PointY="7.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="SchoolMgmtModel.Subject" Width="1.5" PointX="5.25" PointY="13.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="SchoolMgmtModel.Teacher" Width="1.5" PointX="10.5" PointY="7.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="SchoolMgmtModel.User" Width="1.5" PointX="10.5" PointY="2.25" IsExpanded="true" />
+        <AssociationConnector Association="SchoolMgmtModel.FK_City_State" ManuallyRouted="false" />
+        <AssociationConnector Association="SchoolMgmtModel.FK_Student_City" ManuallyRouted="false" />
+        <AssociationConnector Association="SchoolMgmtModel.FK_Teacher_City" ManuallyRouted="false" />
+        <AssociationConnector Association="SchoolMgmtModel.FK_User_City" ManuallyRouted="false" />
+        <AssociationConnector Association="SchoolMgmtModel.FK_State_Country" ManuallyRouted="false" />
+        <AssociationConnector Association="SchoolMgmtModel.FK_Student_Country" ManuallyRouted="false" />
+        <AssociationConnector Association="SchoolMgmtModel.FK_Teacher_Country" ManuallyRouted="false" />
+        <AssociationConnector Association="SchoolMgmtModel.FK_User_Country" ManuallyRouted="false" />
+        <AssociationConnector Association="SchoolMgmtModel.FK_Student_Standard" ManuallyRouted="false" />
+        <AssociationConnector Association="SchoolMgmtModel.FK_Teacher_Standard" ManuallyRouted="false" />
+        <AssociationConnector Association="SchoolMgmtModel.FK_Student_State" ManuallyRouted="false" />
+        <AssociationConnector Association="SchoolMgmtModel.FK_Teacher_State" ManuallyRouted="false" />
+        <AssociationConnector Association="SchoolMgmtModel.FK_User_State" ManuallyRouted="false" />
+        <AssociationConnector Association="SchoolMgmtModel.FK_Student_Subject" ManuallyRouted="false" />
+        <AssociationConnector Association="SchoolMgmtModel.FK_Student_Teacher" ManuallyRouted="false" />
+        <AssociationConnector Association="SchoolMgmtModel.FK_Teacher_Subject" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

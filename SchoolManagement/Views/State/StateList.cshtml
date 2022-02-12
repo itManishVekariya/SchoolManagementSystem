@@ -1,0 +1,39 @@
+﻿@model IEnumerable<SchoolManagement.Models.Model.StateModel>
+
+@{
+    ViewBag.Title = "StateList";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>StateList</h2>
+
+<p>
+    @Html.ActionLink("Create New", "AddState")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            <p>State</p>
+        </th>
+        <th>
+            <p>Country</p>
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Name)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.CountryName)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "AddState", new { id = item.StateId }) |
+            @Html.ActionLink("Delete", "DeleteState", new { id = item.StateId })
+        </td>
+    </tr>
+}
+
+</table>
